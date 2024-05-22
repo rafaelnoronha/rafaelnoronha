@@ -1,6 +1,6 @@
 # it is me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-noronha/)](https://www.linkedin.com/in/rafael-noronha/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-de-souza-noronha-4390a2106/)](https://www.linkedin.com/in/rafael-de-souza-noronha-4390a2106/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelsnoronhag@gmail.com)](mailto:rafaelsnoronhag@gmail.com)
 [![Instagram rafaelnoronha](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelsnoronha)
 <!-- [![GitHub rafaelnoronha](https://img.shields.io/github/followers/rafaelnoronha?label=follow&style=social)](https://github.com/rafaelnoronha) -->
